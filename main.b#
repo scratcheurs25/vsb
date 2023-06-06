@@ -1,0 +1,2 @@
+draw("hello word")
+update(1)
